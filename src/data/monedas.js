@@ -5,6 +5,15 @@ const monedas = [
   {codigo: 'JPY', nombre: 'Yen Japones'},
   {codigo: 'CNY', nombre: 'Yuan Chino'},
   {codigo: 'RUB', nombre: 'Rublo Ruso'},
+  {codigo: 'BRL', nombre: 'Real Brasileño'},
+  {codigo: 'CZK', nombre: 'Corona Checa'},
+  {codigo: 'CHF', nombre: 'Franco Suizo'},
+  {codigo: 'TRY', nombre: 'Lira Turca'},
+  {codigo: 'RON', nombre: 'Leu Rumano'},
+  {codigo: 'PLN', nombre: 'Esloti Polaco'},
+  {codigo: 'PAB', nombre: 'Balboa Panameño'},
+  {codigo: 'KWD', nombre: 'Dinar'},
+  {codigo: 'ILS', nombre: 'Shekel Israelita'},
   ];
 
 export {monedas}
